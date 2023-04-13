@@ -1,6 +1,6 @@
 # VBA-Challenge
 # Description
-This project analysis annual stock exchange data for 2018, 2019 and 2020.
+This project analysises annual stock exchange data for 2018, 2019 and 2020.
 The data analysed consists of reporting the the yearly change, yearly percent change and total stock volumne for each stock.
 
 # Visuals
